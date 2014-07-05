@@ -1,25 +1,25 @@
-# Base 2.0 Development - Roadmap
-Base – a fast, lightweight, mobile-first responsive framework which includes all the core essentials to get you started on your next web project.
+# Base 2.0 Development
+Base – a fast, lightweight, mobile-first framework which has all the core ingredients to get you started on your next web project.
 
 ## Outstanding Tasks
 
 ### Branding
-- [ ] Base Logo
+- [x] Base Logo
 - [ ] Base Website (design and cutup)
 
 * * *
 
 ### Core Libraries and Snippets
-- [ ] Normalize 3.0.1
-- [ ] HTML5 Boilerplate Apache Server Configs
+- [x] Normalize 3.0.1
+- [x] HTML5 Boilerplate Apache Server Configs
 - [ ] Micro Clearfix
 
 * * *
 
 ### HTML Template
 - [ ] Create Base Favicons for Desktop, iOS and Android devices
-- [ ] Include Optimised Google Analytics Script
-- [ ] Add jQuery CDN Snippet
+- [x] Include Optimised Google Analytics Script
+- [x] Add jQuery CDN Snippet
 
 * * *
 
@@ -29,7 +29,7 @@ Base – a fast, lightweight, mobile-first responsive framework which includes a
 * * *
 
 ### JavaScript
-- [ ] Default JS File (empty)
+- [x] Default JS File (empty)
 
 
 * * *
@@ -111,8 +111,6 @@ Base – a fast, lightweight, mobile-first responsive framework which includes a
 - [ ] Breadcrumb
 - [ ] LHS Menu
 - [ ] Share links (Facebook, Twitter, Google+, etc)
-- [ ] ...
-- [ ] ...
 
 * * *
 
