@@ -1,12 +1,9 @@
 # Welcome to Base!
-...
-
-
-
+Getting started with Base is easy. Whether you're building a new app or creating a mobile-first website, we've got you covered.
 
 * * *
 
-## Getting started
+## Getting started...
 Before using the Base framework, please make sure you have the following prerequisites:
   - Good understanding of HTML and CSS
   - Code editor such as [Atom](https://atom.io/)
@@ -16,7 +13,7 @@ Before using the Base framework, please make sure you have the following prerequ
 * * *
 
 ## Grab the download
-**Below are a few ways of getting the latest Base download:**
+**Below are a few ways of getting the latest download:**
 
 1. Install and manage Base using [Bower](http://bower.io/):
 
@@ -27,7 +24,7 @@ Before using the Base framework, please make sure you have the following prerequ
 * * *
 
 ## What's in the box?
-After extracting Base, you will get a folder structure as follows:
+After extracting Base, you will get a folder structure as follows below:
 <pre>
 base/
   |-- index.html
@@ -85,4 +82,4 @@ base/
 * * *
 
 ## Let's get moving!
-Now that you have the latest download and great prerequisites, let's take a closer look at the [HTML template](#).
+Now that you have the latest download and awesome prerequisites, let's take a closer look at the [HTML template](html.md).
