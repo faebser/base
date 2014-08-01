@@ -6,7 +6,8 @@ Getting started with Base is easy. Whether you're building a new app or creating
 ## Getting started...
 Before using the Base framework, please make sure you have the following prerequisites:
   - Good understanding of HTML and CSS
-  - Code editor such as [Atom](https://atom.io/)
+  - Code editor such as [Sublime Text](http://www.sublimetext.com/
+  )
   - LESS or SASS compiler such as [Prepros](http://alphapixels.com/prepros/)
   - A calm and open mind :)
 
@@ -35,37 +36,37 @@ base/
     |-- style.less
     |-- base/
       |-- _blockquotes.less
-      |-- _buttons.less
       |-- _code.less
       |-- _desktop-grid.less
       |-- _forms.less
-      |-- _global.less
       |-- _grid.less
       |-- _helpers.less
       |-- _lists.less
       |-- _mixins.less
+      |-- _modules.less
       |-- _print.less
       |-- _resets.less
       |-- _tables.less
       |-- _tablet-grid.less
+      |-- _typography.less
       |-- _variables.less
   |-- sass/
     |-- style.sass
     |-- base/
       |-- _blockquotes.sass
-      |-- _buttons.sass
       |-- _code.sass
       |-- _desktop-grid.sass
       |-- _forms.sass
-      |-- _global.sass
       |-- _grid.sass
       |-- _helpers.sass
       |-- _lists.sass
       |-- _mixins.sass
+      |-- _modules.sass
       |-- _print.sass
       |-- _resets.sass
       |-- _tables.sass
       |-- _tablet-grid.sass
+      |-- _typography.sass
       |-- _variables.sass
   |-- img/
     |-- favicon.png

@@ -24,12 +24,13 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 * * *
 
 ### Global CSS Setup
-- [ ] Global Variables (font defaults, sizes, colours, etc)
+- [x] Global Variables (font defaults, sizes, colours, etc)
 
 * * *
 
 ### JavaScript
 - [x] Default JS File (empty)
+- [x] Vendor Scripts (jQuery)
 
 
 * * *
@@ -44,8 +45,13 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 
 * * *
 
-### General Helpers
-- [ ] Resets (no-padding, no-margin, etc)
+### Base Helpers
+- [ ] Helper and Reset Classes (no-padding, no-margin, .no-list, etc)
+
+* * *
+### Resets
+- [x] Normalize Resets
+- [x] Global Border Box
 
 * * *
 
@@ -78,6 +84,7 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 * * *
 
 ### Grid
+- [x] Clearfix
 - [ ] Mobile-first Grid
 - [ ] Create Grid Loop in LESS / SASS
 - [ ] Work around for sub pixel rounding issue
@@ -112,6 +119,12 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 - [ ] Breadcrumb
 - [ ] LHS Menu
 - [ ] Share links (Facebook, Twitter, Google+, etc)
+
+* * *
+
+### Miscellaneous Tasks
+- [ ] Add Base to [CDN JS](http://cdnjs.com/)
+- [x] Update Bower file
 
 * * *
 
