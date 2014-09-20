@@ -12,7 +12,7 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 ### Core Libraries and Snippets
 - [x] Normalize 3.0.1
 - [x] HTML5 Boilerplate Apache Server Configs
-- [ ] Micro Clearfix
+- [x] Micro Clearfix
 
 * * *
 
@@ -84,7 +84,6 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 * * *
 
 ### Grid
-- [x] Clearfix
 - [ ] Mobile-first Grid
 - [ ] Create Grid Loop in LESS / SASS
 - [ ] Work around for sub pixel rounding issue
