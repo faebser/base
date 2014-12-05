@@ -93,9 +93,9 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 ### Documentation
 - [x] Introduction (overview and files included)
 - [x] HTML template (Template breakdown)
-- [ ] Typography (headings, lists, blockquotes, tables, helpers, examples)
-- [ ] Forms (inputs, checkboxes, buttons, helpers, examples)
-- [ ] Grid (columns, clearfix, row helpers, examples)
+- [x] Typography (headings, lists, blockquotes, tables, helpers, examples)
+- [x] Forms (inputs, checkboxes, buttons, helpers, examples)
+- [x] Grid (columns, clearfix, row helpers, examples)
 - [ ] Mixins (no svg, border radius, opacity, examples)
 - [ ] Modules (add ons, downloads, code snippets, examples)
 - [ ] Components (add ons, downloads, code snippets, examples)

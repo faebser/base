@@ -1,5 +1,5 @@
 # HTML Template
-...
+A 99% fat free HTML template to get you started on your next web project.
 
 * * *
 
