@@ -5,7 +5,10 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 
 ### Branding
 - [x] Base Logo
-- [ ] Base Website (design and cutup)
+- [x] Base Website (design)
+- [x] Base Docs (design)
+- [ ] Base Website (html template)
+- [ ] Base Docs (html template)
 
 * * *
 
@@ -36,17 +39,16 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 * * *
 
 ### Mixins
-- [ ] Border Radius
+- [x] Border Radius
 - [ ] RGBA Background
-- [ ] Opacity
-- [ ] SVG Background with Fallback
+- [x] SVG Background with Fallback
 - [ ] Opacity
 - [ ] Timeout Delays and Animations
 
 * * *
 
 ### Base Helpers
-- [ ] Helper and Reset Classes (no-padding, no-margin, .no-list, etc)
+- [x] Helper and Reset Classes (no-padding, no-margin, .no-list, etc)
 
 * * *
 ### Resets
@@ -56,30 +58,30 @@ Base – a fast, lightweight, mobile-first framework which has all the core ingr
 * * *
 
 ### Typography
-- [ ] Default Fonts and Line Height
-- [ ] Headings (h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .heading-unstyled)
-- [ ] Unordered and Ordered Lists and Definition Lists
-- [ ] Blockquote
-- [ ] Table
-- [ ] Miscellaneous (code, sup, sub, etc)
+- [x] Default Fonts and Line Height
+- [x] Headings (h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, h6, .h6, .heading-unstyled)
+- [x] Unordered and Ordered Lists and Definition Lists
+- [x] Blockquote
+- [x] Table
+- [x] Miscellaneous (code, sup, sub, etc)
 
 * * *
 
 ### Form Elements
-- [ ] Form, Fieldset, Legend and Label
-- [ ] Inputs (text, search, phone, url, number)
-- [ ] Radios and Checkboxes
-- [ ] Select and Multi-select
-- [ ] Textarea
-- [ ] Buttons (standard, reset, disabled, un-styled and custom)
+- [x] Form, Fieldset, Legend and Label
+- [x] Inputs (text, search, phone, url, number)
+- [x] Radios and Checkboxes
+- [x] Select and Multi-select
+- [x] Textarea
+- [x] Buttons (standard, reset, disabled, un-styled and custom)
 
 * * *
 
 ### Global Typography Helpers / Classes
-- [ ] Font Weights
-- [ ] Font Style
-- [ ] Text Alignment
-- [ ] Font Style
+- [x] Font Weights
+- [x] Font Style
+- [x] Text Alignment
+- [x] Font Style
 
 * * *
 
